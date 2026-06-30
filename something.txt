@@ -3,7 +3,3 @@ additional strokes
 123
 456
 789
-next new lines
-111
-222
-333
